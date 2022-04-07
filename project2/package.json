@@ -1,0 +1,17 @@
+{
+  "name": "project2",
+  "version": "1.0.0",
+  "private": true,
+  "description": "cs142 project2 - JavaScript Calisthenics",
+  "main": "cs142-test-project2.js",
+  "devDependencies": {
+    "eslint": "^8.6.0",
+    "eslint-config-airbnb-base": "^15.0.0"
+  },
+  "scripts": {
+    "test": "node run-tests-using-node.js",
+    "lint": "./node_modules/.bin/eslint -c .eslintrc.json ."
+  },
+  "author": "Mendel Rosenblum <mendel@cs.stanford.edu> (http://www.stanford.edu/~mendel)",
+  "license": "ISC"
+}

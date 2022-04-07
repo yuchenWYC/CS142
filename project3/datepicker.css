@@ -1,0 +1,49 @@
+td.dimmed {
+    color: #808080;
+}
+
+table {
+    background-color: lightblue;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    width: 220px;
+    height: 200px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.title {
+    border-top: 2px;
+    font-size: 20px;
+    display: inline-block;
+    background-color: antiquewhite;
+    width: 155px;
+    height: 37px;
+    padding-top: 11px;
+}
+
+.button {
+    background-color: antiquewhite; /* Green */
+    border: none;
+    color: black;
+    padding: 15px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.left{
+    border-top-left-radius: 20px;
+}
+
+.right{
+    border-top-right-radius: 20px;
+}
+
+
+body{
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

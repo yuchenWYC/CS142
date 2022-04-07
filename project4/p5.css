@@ -1,0 +1,13 @@
+button{
+    width: 50%;
+    border:none;
+    background-color:linen;
+    cursor: pointer;
+    height: 40px;
+    font-size: large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.left{
+    border-right: 1px solid white;
+}
