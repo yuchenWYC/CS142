@@ -1,0 +1,14 @@
+.register{
+    color: blue;
+    cursor: pointer; 
+    text-decoration: underline;
+}
+
+.error_message {
+    color:red;
+}
+
+.required:after {
+    content:" *";
+    color: red;
+  }

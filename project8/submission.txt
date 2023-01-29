@@ -1,0 +1,41 @@
+Project #8 - Submission form
+
+Please fill in this form and submit it with your project #8.
+
+Enter no more than 5 user stories that you did for the assignment that you would like to be
+graded on. For each story include the following information:
+
+Story number and name:
+Story points:
+Brief description to see the story in action:
+
+Total Story Points:
+
+Marketing Video URL (ensure permissions are set to public viewing):
+
+Is it OK with you if we post your Marketing Video URL on the class discussion forum?
+
+Any special instructions for Grading (should be easy to run app from new machine):
+
+
+************************************ Example *******************
+* As an example for if you did only story 5 your file would look like:
+* 
+* Story number and name:  2 - @mentions in comments
+* Story points:  6
+* The user should be able to @mention users in the comments of photos and be able to see all 
+* the photos that @mention a particular user. 
+*
+* Story number and name:  6 - Photo like votes
+* Story points:  6
+* The user can like a photo by clicking the heart button below the photo. Once a photo is liked, the user can
+* unlike the photo by clicking the button again. The liked photos will be saved into database and can be displayed 
+* in the /favorites path. 
+* 
+* Total Story Points: 12
+*
+* Marketing Video URL (ensure permissions are set to public viewing): https://www.youtube.com/watch?v=ncm366j1Gzc&ab_channel=YuchenWang
+* 
+* Is it OK with you if we post your Marketing Video URL on the class discussion forum? Yes
+* 
+* Instructions for Grading (should be easy to run app from new machine): None
